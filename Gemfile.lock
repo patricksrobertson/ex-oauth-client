@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/patricksrobertson/omniauth-icis.git
-  revision: 10a3c03d74093b62757407ddbbfd07070be178bf
+  revision: 8b67df41cd314f2116ee8e09e7f5f4c352db1256
   specs:
     omniauth-icis (0.1.0)
       omniauth (~> 1.0)
