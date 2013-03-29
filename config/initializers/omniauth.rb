@@ -1,3 +1,3 @@
 Rails.application.config.middleware.use OmniAuth::Builder do
-  provider :icis, 'cvyOgtCBGbSF7DLbBCCHcgc3Si42NTapM9l5Uiki', 'uHvGeOKXPWCk5f6BT0arbNaG2u0TwY2tuVzSMukc'
+  provider :icis, '2IXlJAF15JEoW28QWiPmfLHUjY2oMeLYpnn6K1le', 'i1pb8YnM06ogVVA8Uu67pLh4Ff7eDz2fw4WDRsu4'
 end
